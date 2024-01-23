@@ -1,4 +1,4 @@
 Brennan Nicola
 Bnicola16
 bn823321@ohio.edu
-CS 2400, Section 104
+CS 2400, Section 110

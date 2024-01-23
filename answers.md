@@ -69,3 +69,17 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git restore <file>..." to discard changes in working directory)
         modified:   answers.md
+
+10)
+The changes have not been recorded locally.
+
+11)
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Bnicola16/git-lab.git
+
+12)
+Yes since i pulled them from the Github repository it updated the README
+.md file locally.
+
+13)
+.  ..  .git  .gitignore  README.md  answers.md  git-lab-program.cc
